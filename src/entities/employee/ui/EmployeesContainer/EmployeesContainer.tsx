@@ -44,8 +44,8 @@ export const EmployeesContainer = () => {
                 </div>
             }
             {chosenCompanies.length > 1 &&
-                <div>
-                    Выбрано больше 1 компании
+                <div className={'more_one_chosen_info'}>
+                    Выбрано больше 1 компании, для отображения списка сотрудников необходимо чтобы была выбрана только одна компания
                 </div>
             }
         </>

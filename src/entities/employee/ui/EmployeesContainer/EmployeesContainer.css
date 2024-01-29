@@ -3,8 +3,12 @@
     flex-direction: column;
     gap: 10px;
 }
-.empty_employee_list_info{
+.empty_employee_list_info, .more_one_chosen_info{
     border: 1px solid lightgrey;
     padding: 10px;
     border-radius: 5px;
+}
+.more_one_chosen_info{
+    min-width: 30%;
+    margin-top: 20%;
 }
