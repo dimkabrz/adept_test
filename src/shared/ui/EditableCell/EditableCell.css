@@ -1,0 +1,12 @@
+.editable_cell{
+    display: flex;
+    justify-content: center;
+}
+.edit_value_area{
+    width: 100%;
+    padding: 3px;
+    border: 1px solid lightgrey;
+}
+.edit_value_area:focus-visible{
+    outline: 1px solid transparent;
+}

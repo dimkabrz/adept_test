@@ -1,0 +1,10 @@
+tr.selected_row{
+    background: #8a8a8a;
+}
+.check_row_toggler{
+    display: flex;
+    justify-content: center;
+}
+.employee_row{
+    height: 40px;
+}

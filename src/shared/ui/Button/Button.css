@@ -1,0 +1,10 @@
+.my_button{
+    background: lightgrey;
+    border: 1px solid #949494;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.my_button:hover{
+    box-shadow: 3px 5px 10px #b9b9b9;
+}
